@@ -9,7 +9,7 @@ module.exports = {
   "globals": {
   },
   "rules": {
-    "strict": 0,
+    "strict": [0],
     "max-len": [1, { 'code': 120 }],
     "newline-per-chained-call": [0],
     "no-nested-ternary": [0],
