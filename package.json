@@ -6,7 +6,7 @@
   "repository": "git@github.com:cimon-io/eslint-config-cimon.git",
   "author": "Alexey Osipenko <alexey@cimon.io>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^6.4.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-import-resolver-webpack": "^0.11.1",
